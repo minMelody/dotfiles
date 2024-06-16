@@ -7,3 +7,4 @@ SDDM theme: [Sugar Candy](https://github.com/Kangie/sddm-sugar-candy)
 
 ![image](https://github.com/minMelody/dotfiles/assets/138899007/d33204dc-a0db-47fb-b81d-5d863ed829ef)
 ![image](https://github.com/minMelody/dotfiles/assets/138899007/cf18ecea-cad3-4fc4-b46e-a1e27efc7e89)
+![image](https://github.com/minMelody/dotfiles/assets/138899007/46dc5ade-f6e6-48d5-ac1d-d4859f787dff)
