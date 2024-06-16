@@ -1,0 +1,20 @@
+VteTerminal, vte-terminal {
+	padding: 10px;
+}
+
+#xfce4-notification-plugin image {
+	-gtk-icon-transform: scale(0.85);
+}
+
+#clock-button {
+    padding: 0 3px;
+}
+
+#actions-button {
+    font-size: 16px;
+}
+
+.xfce4-panel widget grid button.flat.toggle:checked {
+    color: #f44e50;
+}
+

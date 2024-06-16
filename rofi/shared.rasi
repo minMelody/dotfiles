@@ -1,0 +1,14 @@
+configuration {
+    icon-theme: "Papirus-Dark";
+    window {
+        prefer-icon-theme: true;
+    }
+
+    hover-select: true;
+    me-select-entry: "MousePrimary";
+    me-accept-entry: "!MousePrimary";
+    kb-page-next: "Page_Down,ScrollDown";
+    kb-page-prev: "Page_Up,ScrollUp";
+    ml-row-down: "";
+    ml-row-up: "";
+}

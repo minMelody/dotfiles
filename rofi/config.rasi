@@ -1,0 +1,6 @@
+configuration {
+    drun-show-actions: true;
+}
+@import "shared.rasi"
+
+@theme "./themes/spotlight-dark.rasi"
