@@ -17,9 +17,9 @@ background = "#e14142"
 black   = '#031112'
 red     = '#e14142'
 green   = '#35bf5c'
-yellow  = '#ffea7f'
-blue    = '#28624e'
-magenta = '#b392f0'
+yellow  = '#ff8a02'
+blue    = '#5832fe'
+magenta = '#a802de'
 cyan    = '#39c5cf'
 white   = '#d1d5da'
 
@@ -29,6 +29,7 @@ red     = '#cb5f50'
 green   = '#85e89d'
 yellow  = '#ffea7f'
 blue    = '#29efa0'
-magenta = '#b392f0'
+magenta = '#ea52c0'#ff69b4
 cyan    = '#56d4dd'
 white   = '#fdfdfd'
+
