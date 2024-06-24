@@ -2,10 +2,6 @@ VteTerminal, vte-terminal {
 	padding: 10px;
 }
 
-#xfce4-notification-plugin image {
-	-gtk-icon-transform: scale(0.85);
-}
-
 #clock-button {
     padding: 0 3px;
 }
@@ -18,3 +14,8 @@ VteTerminal, vte-terminal {
     color: #f44e50;
 }
 
+#xfce4-notification-plugin image,
+#pulseaudio-button,
+.genmon_value {
+    color: #dfdfdf;
+}
