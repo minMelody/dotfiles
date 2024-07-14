@@ -1,8 +1,8 @@
 /*******************************************************************************
  * a modified version of
  *******************************************************************************
- * MACOS LAUNCHPAD LIKE THEME FOR ROFI 
- * User                 : LR-Tech               
+ * MACOS LAUNCHPAD LIKE THEME FOR ROFI
+ * User                 : LR-Tech
  * Theme Repo           : https://github.com/lr-tech/rofi-themes-collection
  *******************************************************************************/
 
@@ -22,6 +22,8 @@
     bg3:  @p3;          /*#f5f5f540;*/
 
     fg0:  @p4;          /*#f5f5f5;*/
+
+    search-icon: "applications-all-symbolic";
 
     background-color: transparent;
     text-color:       @fg0;
@@ -50,7 +52,7 @@ inputbar {
   spacing:  4px;
 
   border:         2px;
-  border-radius:  2px;
+  border-radius:  4px;
   border-color:   @bg3;
 
   children: [ icon-search, entry ];
@@ -61,15 +63,18 @@ prompt {
 }
 
 icon-search {
-  padding:   0 5px;
+  padding:  0 5px;
+  size:     24px;
   expand:   false;
-  filename: "pack-more";
+  filename: @search-icon;
   vertical-align: 0.5;
 }
 
 entry {
+  font: "Montserrat 12";
   placeholder:        "Search...";
   placeholder-color:  @fg0;
+  vertical-align: 0.5;
 }
 
 listview {
