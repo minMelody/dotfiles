@@ -1,6 +1,10 @@
 configuration {
-    drun-show-actions: true;
+    modes: [window,drun,combi];
+    show-icons: true;
+    window-format: "󰧄  {t}";
+    combi-display-format: "{text}";
+    combi-modes: [window,drun];
 }
 @import "shared.rasi"
 
-@theme "./themes/spotlight-dark.rasi"
+@theme "./themes/launchpad.rasi"

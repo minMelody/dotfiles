@@ -1,9 +1,4 @@
 configuration {
-    icon-theme: "Papirus-Dark";
-    window {
-        prefer-icon-theme: true;
-    }
-
     hover-select: true;
     me-select-entry: "MousePrimary";
     me-accept-entry: "!MousePrimary";

@@ -1,8 +1,0 @@
-configuration {
-    show-icons: true;
-    window-format: "󰧄  {t}";
-    combi-display-format: "{text}";
-}
-@import "shared.rasi"
-
-@theme "./themes/launchpad.rasi"
