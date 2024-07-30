@@ -12,7 +12,7 @@
     search-icon: "cinnamon-all-applications-symbolic";
     accent-color: #5294e2;
 
-    bg0: #292d3bfa;
+    bg0: #242935f3;
     bg1: #232832;
 
     fg0: #FDFDFD;
