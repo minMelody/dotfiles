@@ -1,7 +1,7 @@
 configuration {
     modes: [window,drun,combi];
     show-icons: true;
-    window-format: "󰧄  {t}";
+    window-format: "   {t}";
     combi-display-format: "{text}";
     combi-modes: [window,drun];
 }
