@@ -5,7 +5,9 @@ SDDM theme: [Chili](https://www.opendesktop.org/p/1240784) <br>
 GTK theme: [Arc dark](https://github.com/jnsh/arc-theme) <br>
 Monospace font: JetBrains Mono NerdFont
 
-## screenshots
-![fetch](https://github.com/user-attachments/assets/6162bcbc-25bd-475d-a83c-68f03c70f2ce)
+## Screenshots
+> ![fetch](https://github.com/user-attachments/assets/6162bcbc-25bd-475d-a83c-68f03c70f2ce)
+> fastfetch
 
-![rofi](https://github.com/user-attachments/assets/dbf54d9d-73a8-49f6-aaf6-8f3a9f3796c4)
+> ![image](https://github.com/user-attachments/assets/e575aca8-4b5e-4b47-8c8f-35cce8731d9b)
+> rofi
