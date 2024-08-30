@@ -10,9 +10,9 @@
     font: "Montserrat 10";
 
     search-icon: "cinnamon-all-applications-symbolic";
-    accent-color: #5294e2;
-    bg0: #242935f3;
-    bg1: #232832;
+    accent-color: #e25c84;
+    bg0: #2a2a2ae3;
+    bg1: #252525;
     fg0: #fdfdfd;
 
     background-color: transparent;
@@ -26,7 +26,7 @@ window {
   location: south east;
 
   fullscreen: false;
-  width:   calc(100% - 40px);
+  width:   100%;
   height:  calc(100% - 26px);
   padding: 1em;
 
