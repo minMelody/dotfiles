@@ -7,6 +7,6 @@ Cinnamon theme: [WhiteSur Dark solid pink](https://github.com/vinceliuice/WhiteS
 Monospace font: JetBrains Mono NerdFont
 
 ## Screenshots
-![fetch](https://github.com/user-attachments/assets/6162bcbc-25bd-475d-a83c-68f03c70f2ce "fastfetch")
+![fetch](https://github.com/user-attachments/assets/b6f410dd-f8c0-4e58-a065-052e3be56ba1 "fastfetch")
 
-![rofi_screenshot](https://github.com/user-attachments/assets/e575aca8-4b5e-4b47-8c8f-35cce8731d9b "rofi")
+![rofi_screenshot](https://github.com/user-attachments/assets/4de9da88-e67b-47c5-ba34-124b2f726fc2 "rofi")
