@@ -1,4 +1,4 @@
-My personal dotfiles on my current Manjaro Linux install.
+My personal dotfiles on my previous Manjaro Linux install.
 
 Xfwm theme: [Flat-Remix-Darkish](https://www.gnome-look.org/p/1767812), modified so buttons look similar to their inactive variant on focused window. <br>
 SDDM theme: [Sugar Candy](https://github.com/Kangie/sddm-sugar-candy) <br>
