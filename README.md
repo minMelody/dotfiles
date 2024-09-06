@@ -2,7 +2,7 @@ My personal dotfiles on my current EndeavourOS Cinnamon install.
 
 Icon theme: [Reversal icon theme](https://www.opendesktop.org/s/Gnome/p/1340791/) with [Papirus dark](https://www.opendesktop.org/p/1166289) symbolics for the status bar <br/>
 SDDM theme: [Sequoia](https://github.com/minMelody/sddm-sequoia) <br/>
-GTK theme: [Arc dark](https://github.com/jnsh/arc-theme) <br/>
+GTK theme: [Fluent](https://www.gnome-look.org/p/1477941) <br/>
 Cinnamon theme: [WhiteSur Dark solid pink](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
 Monospace font: JetBrains Mono NerdFont
