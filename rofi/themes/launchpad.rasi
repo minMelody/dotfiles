@@ -12,7 +12,7 @@
     search-icon: "cinnamon-all-applications-symbolic";
     accent-color: #e25c84;
     bg0: #2a2a2ae3;
-    bg1: #252525;
+    bg1: #252525c5;
     fg0: #fdfdfd;
 
     background-color: transparent;
@@ -30,7 +30,7 @@ window {
   height:  calc(100% - 26px);
   padding: 1em;
 
-  background-color: @bg0;
+  background-color: @bg1;
 }
 
 mainbox {
