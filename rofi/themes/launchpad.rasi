@@ -9,7 +9,7 @@
 * {
     font: "Montserrat 10";
 
-    search-icon: "cinnamon-all-applications-symbolic";
+    search-icon: "edit-find";
     accent-color: #e25c84;
     bg0: #2a2a2ae3;
     bg1: #252525c5;
