@@ -226,3 +226,4 @@ bindsym Menu exec --no-startup-id $rofi
 
 # whisker menu
 bindsym Shift+Menu exec --no-startup-id xfce4-popup-whiskermenu
+
