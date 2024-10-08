@@ -227,3 +227,19 @@ bindsym Menu exec --no-startup-id $rofi
 # whisker menu
 bindsym Shift+Menu exec --no-startup-id xfce4-popup-whiskermenu
 
+# swap containers
+mode "swap" {
+  # navigate windows
+  bindsym Left focus left
+  bindsym Right focus right
+  bindsym Up focus up
+  bindsym Down focus down
+
+  bindsym Return swap container with mark "swapee"; \
+  [con_mark="swapee"] focus; \
+  unmark "swapee"; mode "default";
+
+  bindsym Escape [con_mark="swapee"] focus; unmark "swapee"; mode "default";
+}
+# mark focused window and set mode to swap
+bindsym $mod+Shift+i mark --add "swapee"; mode "swap"
