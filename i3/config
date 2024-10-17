@@ -230,6 +230,10 @@ bindsym Shift+Menu exec --no-startup-id xfce4-popup-whiskermenu
 # swap containers
 mode "swap" {
   # navigate windows
+  bindsym j focus left
+  bindsym k focus down
+  bindsym l focus up
+  bindsym m focus right
   bindsym Left focus left
   bindsym Right focus right
   bindsym Up focus up
