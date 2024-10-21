@@ -220,7 +220,7 @@ for_window [class="Blueman-manager"] floating enable
 bindsym Mod1+F4 kill
 
 # rofi launchpad
-set $rofi "rofi -show combi -combi-modi window,drun"
+set $rofi "rofi -show combi -combi-modi window,drun -theme launchpad-smol.rasi"
 bindsym Mod1+F3 exec --no-startup-id $rofi
 bindsym Menu exec --no-startup-id $rofi
 
