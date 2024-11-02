@@ -11,7 +11,7 @@ Monospace font: JetBrains Mono NerdFont
 
 ### Xfce + i3
 ![desktop-xfce-i3-picom](https://github.com/user-attachments/assets/269e494d-f38f-486c-8a47-2f005854fdcf "fastfetch")
-![rofi-launchpad-smol](https://github.com/user-attachments/assets/d9a445f9-8c0c-4ea1-93c7-29dcbebb3180 "rofi-smol theme")
+![rofi launchpad-smol](https://github.com/user-attachments/assets/d9a445f9-8c0c-4ea1-93c7-29dcbebb3180 "rofi launchpad-smol theme")
 
 
 ### Cinnamon
