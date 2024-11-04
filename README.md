@@ -15,6 +15,6 @@ Monospace font: JetBrains Mono NerdFont
 
 
 ### Cinnamon
-![fetch](https://github.com/user-attachments/assets/4bc7cfed-123d-4193-a912-2dfd60a8c059 "fastfetch + vscodium + GLava")
+![fetch](https://github.com/user-attachments/assets/8c59618b-dafc-4af9-82f1-c0985ee5104d "fastfetch")
 
 ![rofi_screenshot](https://github.com/user-attachments/assets/4de9da88-e67b-47c5-ba34-124b2f726fc2 "rofi")
