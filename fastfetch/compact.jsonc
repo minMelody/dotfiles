@@ -1,0 +1,41 @@
+{
+  "display": {
+    "brightColor": "false",
+    "separator": "  ",
+    "constants": [
+      "│ ",
+      "───────────────────"
+    ]
+  },
+  "modules": [
+    {
+      "type": "datetime",
+      "key": "{#39}╭───────{#91}"
+    },
+    {
+      "type": "os",
+      "key": "{#39}{$1}{#96} "
+    },
+    {
+      "type": "kernel",
+      "key": "{#39}{$1}{#95} ",
+      "bright-color": "false"
+    },
+    {
+      "type": "packages",
+      "key": "{#39}{$1}{#97} "
+    },
+    {
+      "type": "memory",
+      "key": "{#39}{$1}{#95} 󰞯"
+    },
+    {
+      "type": "uptime",
+      "key": "{#39}{$1}{#96} 󰅐"
+    },
+    {
+      "type": "custom",
+      "format": "╰{$2}{$2}╯"
+    }
+  ]
+}
