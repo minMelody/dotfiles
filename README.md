@@ -7,12 +7,19 @@ Cinnamon theme: [WhiteSur Dark solid pink](https://github.com/vinceliuice/WhiteS
 
 Monospace font: JetBrains Mono NerdFont
 
+## Installation
+
+Cinnamon keybinds
+```
+$ dconf load /org/cinnamon/desktop/keybindings/ < cinnamon/keybindings.conf
+```
+
 ## Screenshots
 
 ### Xfce + i3
 ![desktop-xfce-i3-picom](https://github.com/user-attachments/assets/269e494d-f38f-486c-8a47-2f005854fdcf "fastfetch")
-![rofi launchpad-smol](https://github.com/user-attachments/assets/d9a445f9-8c0c-4ea1-93c7-29dcbebb3180 "rofi launchpad-smol theme")
 
+![rofi launchpad-smol](https://github.com/user-attachments/assets/d9a445f9-8c0c-4ea1-93c7-29dcbebb3180 "rofi launchpad-smol theme")
 
 ### Cinnamon
 ![fetch](https://github.com/user-attachments/assets/8c59618b-dafc-4af9-82f1-c0985ee5104d "fastfetch")
