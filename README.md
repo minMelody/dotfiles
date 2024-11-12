@@ -1,5 +1,5 @@
 <div align="center">
-<h3>My personal dotfiles</h3>
+<h3>My dotfiles</h3>
   <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/splitview.png"/>
 
   `EndeavourOS` `Xfce` `i3` `Cinnamon`
@@ -15,8 +15,10 @@
   - [Sequoia](https://github.com/minMelody/sddm-sequoia) - SDDM theme
 - [Alacritty](https://archlinux.org/packages/extra/x86_64/alacritty/) - terminal emulator
   - [JetBrains Mono NerdFont](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono-nerd/)
-  - [fish](https://archlinux.org/packages/extra/x86_64/fish/) - user friendly shell
-    - [IlanCosman/tide](https://github.com/IlanCosman/tide) - easy to configure fish prompt
+- [fish](https://archlinux.org/packages/extra/x86_64/fish/) - user friendly interactive shell
+  - [IlanCosman/tide](https://github.com/IlanCosman/tide) - easy to configure fish prompt
+- [Neovim](https://archlinux.org/packages/extra/x86_64/neovim/) - main text editor
+    - [LazyVim](https://github.com/LazyVim/LazyVim) - easy neovim config
 - [Firefox](https://archlinux.org/packages/extra/x86_64/firefox/) - web browser
   - see [#toggle-vertical-tabs-in-firefox](#toggle-vertical-tabs-in-firefox) for vertical tabs
   - [color.firefox.com](https://color.firefox.com/?theme=XQAAAAL8AQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWc07v4gktQn4r7fM49MiZC0Hr3mAwEm2XrDH8yhBCJnAGTBhfoWEQjNZNoD0ipYZbQnVNSYYvH_S4FaT6H6jQhAbuWSgHFmapn0r1b4_pGC_6gxE4FXak4dKUP59E7AwuJIZXlVkrRAs02B3fbHJ6wDjxX7nLmaszkOmhB_N8B6u4FYdnpBeheak6z1TOo9YfbavLA91UMEzqvcLbZIwd6c25rIdJrob0GuxoOp2LCCO9YLgObYAb0QWk0aDJQChiAabnIZ2IpSoM37htOMt0fZTi2rdcjJBvgVm8BHWn_wq9bZA) - simple solid color theme
