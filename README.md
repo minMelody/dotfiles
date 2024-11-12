@@ -36,15 +36,18 @@ Extensions exist, but Mozilla is working on native vertical tabs: those are ***s
 3. search `sidebar.verticalTabs` and set it true (alternatively you can toggle this on or off from the new sidebar UI)
 
 ## Screenshots
-
-### Xfce + i3
+<div align="center">
+<h4>Xfce + i3</h4>
+</div>
 <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/xfce-i3.png">
 <p align="center">
   <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/rofi1.png" width="49.5%">
   <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/firefox.png" width="49.5%">
 </p>
 
-### Cinnamon
+<div align="center">
+<h4>Cinnamon</h4>
+</div>
 <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/cinnamon-desktop.png">
 <img src="https://github.com/minMelody/dotfiles/raw/main/.github/media/rofi0.png">
 
