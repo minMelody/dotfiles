@@ -40,7 +40,7 @@ Extensions exist, but Mozilla is working on native vertical tabs: those are ***s
 2. search `sidebar.revamp` and set it true
 3. search `sidebar.verticalTabs` and set it true (alternatively you can toggle this on or off from the new sidebar UI)
 
-## Screenshots
+### Screenshots
 <div align="center">
 <h4>Xfce + i3</h4>
 </div>
