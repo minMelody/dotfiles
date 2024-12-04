@@ -24,7 +24,7 @@
     - [LazyVim](https://github.com/LazyVim/LazyVim) - easy neovim config
 - [Firefox](https://archlinux.org/packages/extra/x86_64/firefox/) - web browser
   - see [#toggle-vertical-tabs-in-firefox](#toggle-vertical-tabs-in-firefox) for vertical tabs
-  - [color.firefox.com](https://color.firefox.com/?theme=XQAAAAL8AQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWc07v4gktQn4r7fM49MiZC0Hr3mAwEm2XrDH8yhBCJnAGTBhfoWEQjNZNoD0ipYZbQnVNSYYvH_S4FaT6H6jQhAbuWSgHFmapn0r1b4_pGC_6gxE4FXak4dKUP59E7AwuJIZXlVkrRAs02B3fbHJ6wDjxX7nLmaszkOmhB_N8B6u4FYdnpBeheak6z1TOo9YfbavLA91UMEzqvcLbZIwd6c25rIdJrob0GuxoOp2LCCO9YLgObYAb0QWk0aDJQChiAabnIZ2IpSoM37htOMt0fZTi2rdcjJBvgVm8BHWn_wq9bZA) - simple solid color theme
+  - [color.firefox.com](https://color.firefox.com/?theme=XQAAAAL8AQAAAAAAAABBKYhm849SCicxcT_m3XcGHf3p79EhVPWc07v4gktQn4r7fM49MiZC0Hr3mAwEm2XrDH8yhBCJnAGTBhfoWEQjNZNoD0ipYZbQnVNSYYvH_S4FaT6H6jQhAbuWSgHFlnsaHlAcwaX24q3LOg_WO1P2agWhzOksOujH6Myafe_joeniyL4Mo4CPesX12IDM1QCuipzXMGzpQUW4D7yTxB0LZ6joK7mEiiHVBaBZDATMcRHij2Sjhojgwhw19XduslwEDrF5-gyFrFhOSvGNhORmvfN9Ei6ez8CvHC3bQ1p4xqeCfvy9DtCUr--JAg-2nnVC3IjNUmEmg07L_vebrgs) - simple solid color theme
 
 </details>
 

@@ -1,0 +1,56 @@
+.titlebar-spacer{ display: none !important; }
+
+/* center url */
+/*#urlbar{text-align: center;}
+.urlbarView-url{ flex-grow: 0 !important; }*/
+
+#urlbar-background,
+#searchbar,
+#tracking-protection-icon-container,
+#identity-icon-box,
+#identity-permission-box,
+#urlbar-go-button,
+.urlbar-page-action{
+    border-radius: 1.2em !important;
+}
+
+/* fix alignment between vertical tabs and leftmost button's icon */
+#navigator-toolbox {
+  padding-left: 2px;
+}
+
+/* page corner */
+#main-window:has(#navigator-toolbox[style=""]) #tabbrowser-tabpanels, :not([sizemode="fullscreen"]) #tabbrowser-tabpanels {
+  border-top-left-radius:  10px !important;
+  /*border-top-right-radius: 10px !important;*/
+}
+#main-window:has(#navigator-toolbox[style=""]) .browserStack>browser, :not([sizemode="fullscreen"]) .browserStack>browser {
+  border-top-left-radius:  10px !important;
+  /*border-top-right-radius: 10px !important;*/
+}
+#tabbrowser-tabbox {
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: var(--toolbar-bgcolor);
+}
+[inFullscreen] #tabbrowser-tabpanels, [inFullscreen] .browserStack>browser {
+  border-radius: 0 !important;
+  margin: 0 !important;
+  /*transition: border-radius .5s !important;*/
+}
+
+/* hide disabled navigation buttons */
+/*#back-button[disabled],
+#forward-button[disabled],
+#reload-button[disabled] { display: none; }*/
+
+/* only show navigtion buttons when hovering navbar */
+#forward-button,#back-button,#reload-button {
+  transition: opacity .12s !important;
+}
+#navigator-toolbox:not(:hover) #forward-button,
+#navigator-toolbox:not(:hover) #back-button,
+#navigator-toolbox:not(:hover) #reload-button {
+  opacity: 0 !important;
+}
+
