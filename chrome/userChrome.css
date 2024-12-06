@@ -1,11 +1,24 @@
+/* kill those pesky spacers */
 .titlebar-spacer{ display: none !important; }
 
-/* center url */
-/*#urlbar{text-align: center;}
-.urlbarView-url{ flex-grow: 0 !important; }*/
+/* fix misalignment between vertical tabs and leftmost navbar button */
+#navigator-toolbox {
+  padding-left: 2px;
+}
 
-#urlbar-background,
-#searchbar,
+/* fix color of window buttons on linux */
+.titlebar-buttonbox > toolbarbutton {
+  &:hover > image {
+    stroke: #ffffff !important;
+  }
+}
+
+/* center url text */
+#urlbar:not([breakout-extend]){ text-align: center; }
+.urlbarView-url{ flex-grow: 0 !important; }
+
+/* rounded urlbar, as well as its buttons */
+#urlbar-background, #searchbar,
 #tracking-protection-icon-container,
 #identity-icon-box,
 #identity-permission-box,
@@ -14,40 +27,28 @@
     border-radius: 1.2em !important;
 }
 
-/* fix alignment between vertical tabs and leftmost button's icon */
-#navigator-toolbox {
-  padding-left: 2px;
+/* rounded top left page corner */
+:not([sizemode="fullscreen"]) #tabbrowser-tabpanels,
+:not([sizemode="fullscreen"]) .browserStack>browser {
+  border-top-left-radius: 10px !important;
 }
-
-/* page corner */
-#main-window:has(#navigator-toolbox[style=""]) #tabbrowser-tabpanels, :not([sizemode="fullscreen"]) #tabbrowser-tabpanels {
-  border-top-left-radius:  10px !important;
-  /*border-top-right-radius: 10px !important;*/
-}
-#main-window:has(#navigator-toolbox[style=""]) .browserStack>browser, :not([sizemode="fullscreen"]) .browserStack>browser {
-  border-top-left-radius:  10px !important;
-  /*border-top-right-radius: 10px !important;*/
-}
+/* make rounded corner same color as toolbar */
 #tabbrowser-tabbox {
   outline: none !important;
   box-shadow: none !important;
   background-color: var(--toolbar-bgcolor);
 }
+/* hide rounded corner when fullscreen */
 [inFullscreen] #tabbrowser-tabpanels, [inFullscreen] .browserStack>browser {
   border-radius: 0 !important;
   margin: 0 !important;
   /*transition: border-radius .5s !important;*/
 }
 
-/* hide disabled navigation buttons */
-/*#back-button[disabled],
-#forward-button[disabled],
-#reload-button[disabled] { display: none; }*/
-
-/* only show navigtion buttons when hovering navbar */
-#forward-button,#back-button,#reload-button {
+#forward-button, #back-button, #reload-button {
   transition: opacity .12s !important;
 }
+/* only show navigation buttons when hovering navbar */
 #navigator-toolbox:not(:hover) #forward-button,
 #navigator-toolbox:not(:hover) #back-button,
 #navigator-toolbox:not(:hover) #reload-button {
