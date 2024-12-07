@@ -34,11 +34,22 @@ $ dconf load /org/cinnamon/desktop/keybindings/ < cinnamon/keybindings.conf
 ```
 
 #### Toggle vertical tabs in Firefox
-Extensions exist, but Mozilla is working on native vertical tabs: those are ***still in beta*** and Nightly users can easily access it but here's how to toggle it for regular Firefox users:
+Extensions exist, but Mozilla is working on native vertical tabs: Nightly users can easily access them but here's how to toggle it for regular Firefox users:
 
 1. go to `about:config` from the address bar
 2. search `sidebar.revamp` and set it true
 3. search `sidebar.verticalTabs` and set it true (alternatively you can toggle this on or off from the new sidebar UI)
+
+#### Use the userChrome.css file
+A userChrome is a way to customize the browser's UI (address bar, tabs, menus...)
+
+1. in the same `about:config` page, search `toolkit.legacyUserProfileCustomizations.stylesheets` and set it true
+2. go to `about:support` from the address bar and open your profile's root directory
+3. create a `chrome` folder if it does not already exist and copy the `chrome/userChrome.css` file in
+4. restart Firefox, you may need to close all instances first for Firefox to reload the files
+
+Keep in mind they can often break with browser updates and you may have to edit or update them once in a while.
+To stop using userChrome, you can simply navigate back to `about:config`, toggle off `toolkit.legacyUserProfileCustomizations.stylesheets` and restart Firefox again.
 
 ### Screenshots
 <div align="center">
